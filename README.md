@@ -17,6 +17,7 @@ only after doing this did the FK work.
 Dont think we need names in the draft table since we have the Player ID, but we can delete names anytime.
 
 these playerids were in the fact but not in the lookup. must add these records to the lookup to create the fk w name unknown 
+
 Add these values to the Master table
 buescer01w	Unknown
 dorresc01w	Unknown
